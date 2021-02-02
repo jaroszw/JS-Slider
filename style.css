@@ -9,6 +9,7 @@
   width: 60%;
   height: 400px;
   position: relative;
+  /* overflow: hidden; */
 }
 
 .slides {
